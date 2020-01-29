@@ -14,4 +14,4 @@
 ![Tutorials](https://github.com/beanjeally/Digital-puzzle/blob/master/tutorials.png)
 
 ## 演示
-![Tutorials](https://github.com/beanjeally/Digital-puzzle/blob/master/show-how.gif)
+![Show-how](https://github.com/beanjeally/Digital-puzzle/blob/master/show-how.gif)
