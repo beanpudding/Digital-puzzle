@@ -2,16 +2,15 @@
 ## Excel版的数字解谜游戏，需要用到VBA
 
 ## 游戏界面
-初始界面
-
-![Initial UI](https://github.com/beanjeally/Digital-puzzle/blob/master/UI_0.png)
-
-解答完成
-
-![Finished UI](https://github.com/beanjeally/Digital-puzzle/blob/master/UI_1.png)
+|初始界面|解答完成|
+| ---- | ---- |
+| ![Initial UI](./UI_0.png) | ![Finished UI](./UI_1.png) |
 
 ## 玩法介绍
-![Tutorials](https://github.com/beanjeally/Digital-puzzle/blob/master/tutorials.png)
+![Tutorials](./tutorials.png)
+
+* 操作：游戏矩阵内 敲<kbd>1</kbd>有色块；敲<kbd>x</kbd>无色块
+* 提示：选中一块区域后，敲<kbd>1</kbd>，再敲<kbd>Ctrl</kbd>+<kbd>Enter</kbd>可以一次填充整块区域
 
 ## 演示
-![Show-how](https://github.com/beanjeally/Digital-puzzle/blob/master/show-how.gif)
+![Show-how](./show-how.gif)
