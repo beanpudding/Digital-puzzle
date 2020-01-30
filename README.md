@@ -9,7 +9,7 @@
 ## 玩法介绍
 ![Tutorials](./tutorials.png)
 
-* 操作：游戏矩阵内 敲<kbd>1</kbd>有色块；敲<kbd>x</kbd>无色块
+* 操作：游戏矩阵内 单元格输入<kbd>1</kbd>有色块；输入<kbd>x</kbd>无色块
 * 提示：选中一块区域后，敲<kbd>1</kbd>，再敲<kbd>Ctrl</kbd>+<kbd>Enter</kbd>可以一次填充整块区域
 
 ## 演示
