@@ -14,3 +14,7 @@
 
 ## 演示
 ![Show-how](./show-how.gif)
+
+## 下载
+
+[数字解谜.xlsm](https://github.com/beanjeally/Digital-puzzle/blob/master/%E6%95%B0%E5%AD%97%E8%A7%A3%E8%B0%9C.xlsm)
